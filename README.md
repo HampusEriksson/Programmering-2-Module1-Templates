@@ -2,6 +2,8 @@
 
 ## Repobeskrivning
 
+I detta repo ska du skapa dina första klasser
+Modul 1 behandlar:
 
 
 ## Författare
