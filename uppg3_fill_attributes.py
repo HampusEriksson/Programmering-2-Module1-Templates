@@ -1,9 +1,11 @@
 # Ditt namn
 # Din klass
 # Datum
+# Du ska skapa attribut för klassen Bottle. Välj alternativ 1 eller alternativ 2
 
 # Alternativ 1
 # Skriv färdigt init-metoden så att alla metoder fungerar
+
 
 class Bottle:
     def __init__(self) -> None:
@@ -21,14 +23,14 @@ class Bottle:
         else:
             print(f"The bottle is now {100*self.contents/self.volume} % full.")
 
+
 # Alternativ 2
 # Skapa attribut till data-classen nedan
 from dataclasses import dataclass
 
+
 @dataclass
 class Bottle:
-    
-
     def __str__(self) -> str:
         return f"The bottle has {self.contents} ml left of the starting volume of {self.volume} ml.txt"
 
