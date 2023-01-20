@@ -1,7 +1,7 @@
 # Ditt namn
 # Din klass
 # Datum
-# Skriv färdigt metoderna så att de gör det som är tänkt
+# Skriv färdigt metoderna så att de gör det som beskrivs
 # Din kod nedan.
 from dataclasses import dataclass
 
@@ -29,4 +29,12 @@ class FootballPlayer:
 
     def change_team(self, new_team):
         # TODO Metoden change_team ska ändra spelarens lag till
+        pass
+
+    def change_lastname(self, new_lastname):
+        # Lite svårare
+        # TODO Metoden change_team ska ändra spelarens efternamn till parametern new_lastname
+        # Exempel: namn = Lionel Messi
+        # Metoden kallas med new_lastname = Ronaldo
+        # Nytt namn = Lionel Ronaldo
         pass

@@ -7,5 +7,12 @@
 # Du ska skapa minst 2 sub-klasser
 # Varje subklass ska ha minst ett unikt attribut
 # Varje subklass ska ha minst en unik metod
-# Du kan använda samma klass som i uppgift 2 om du vill
 # Din kod nedan.
+
+
+class ClassName:
+    def __init__(self) -> None:
+        pass
+
+    def __str__(self) -> str:
+        pass
