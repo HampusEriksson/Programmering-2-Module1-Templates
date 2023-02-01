@@ -3,7 +3,7 @@
 # Datum
 # Skapa din första data-class
 # Klassen ska ha minst 3 attribut (egenskaper)
-# Klassen ska ha en str-metod och en till valfri metod
+# Klassen ska ha en  valfri metod (inte str / init)
 # Din kod nedan.
 
 from dataclasses import dataclass
