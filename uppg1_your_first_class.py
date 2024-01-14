@@ -1,3 +1,4 @@
+# Krav för godkänt
 # Skapa din första class
 # Klassen ska ha minst 3 attribut (egenskaper)
 # Klassen ska ha en str-metod och en till valfri metod
