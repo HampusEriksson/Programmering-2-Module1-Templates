@@ -1,6 +1,4 @@
-# Ditt namn
-# Din klass
-# Datum
+# Högre nivå
 # Du ska skapa klassen Account och implementera menyn så att användaren kan skapa konto och logga in på kontot.
 
 # Loginmeny

@@ -15,7 +15,7 @@ I modul 1 ska du skapa dina första klasser.
 - Klassdiagram (eng. Class/UML Diagram)
 - Inkapsling (eng. Incapsulation)
 
-[Klassdiagrammet](ClassDiagram.png) i detta repo är taget ifrån http://www.cs.utsa.edu/~cs3443/uml/uml.html
+[Klassdiagrammet](ClassDiagram.png) i detta repo är taget ifrån https://twitter.com/KhuyenTran16/status/1460271572984475660
 
 ## Författare
 
